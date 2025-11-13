@@ -28,3 +28,9 @@
 
 7. **Uncalibrated cameras:**  
    Unknown intrinsics add unknown scale & skew; bundle adjustment can refine 3D points later.
+
+## Option A: Visual Story – Rotating 3D Reconstruction
+
+I created a rotating 3D visualization of the reconstructed point cloud using Matplotlib's animation tools. 
+The viewpoint rotates 360° around the scene to simulate a camera orbit, allowing a complete inspection of 
+depth and spatial structure. This helps visualize occlusions and the relative positions of points more clearly.
