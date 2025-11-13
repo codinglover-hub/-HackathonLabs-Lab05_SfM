@@ -1,0 +1,6 @@
+=== 3D Reconstruction Stats ===
+Number of 3D points before filtering: 233
+Number of 3D points after Z-filtering: 227
+X range: -7.03 → 5.16
+Y range: -8.49 → 2.66
+Z range: -2.35 → 5.94
