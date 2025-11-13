@@ -1,6 +1,7 @@
 # Lab 05 – Structure from Motion (SfM)
 
 ## Results
+- **Feature Detection:** feature_detection.png , feature_detection,jpg
 - **Feature Matches:** output_match.jpg
 - **Camera Pose:** pose.txt
 - **3D Reconstruction:** reconstruction.png
