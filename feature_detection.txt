@@ -1,1 +1,2 @@
-
+SIFT keypoints — Left: 499, Right: 440
+AKAZE keypoints — Left: 588, Right: 622
