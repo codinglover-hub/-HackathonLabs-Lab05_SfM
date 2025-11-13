@@ -1,10 +1,10 @@
 # Lab 05 – Structure from Motion (SfM)
 
 ## Results
-- **Feature Matches:** output/output_match.jpg
-- **Camera Pose:** output/pose.txt
-- **3D Reconstruction:** output/reconstruction.png
-- **Bonus:** output/rotation_animation.mp4
+- **Feature Matches:** output_match.jpg
+- **Camera Pose:** pose.txt
+- **3D Reconstruction:** reconstruction.png
+- **Bonus:** creative_output.png
 
 ## Reflection / Mini-Analysis
 1. **Which detector gave denser coverage?**  
